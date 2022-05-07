@@ -38,7 +38,7 @@ canvas {
 }
 
 /* --- Icons --- */
-ul.icons{
+/* ul.icons{
 	cursor: default;
 	list-style: none;
 	padding-left: 0;
@@ -56,7 +56,7 @@ ul.icons li:last child{
 
 ul.icons li .icon:before{
 	font-size: 1.5em;
-}
+} */
 
 .material-icons{
 	  position: relative;
@@ -147,13 +147,13 @@ ul.icons li .icon:before{
 
 .card-image img{
 	display: block;
-	border-radius: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 50px 0;
-	height: 60% !important;
-	width: 80% !important;
-	background-size: cover !important;
+	/* border-radius: 100%; */
+	/* margin-left: auto; */
+	/* margin-right: auto; */
+	/* padding: 10px 0; */
+	/* height: 60% !important; */
+	/* width: 80% !important; */
+	/* background-size: cover !important; */
 }
 
 .blockquote{
@@ -194,8 +194,8 @@ blockquote{
 	left: 0%;
 }
 
-ul.table-of-contents li{
-	font-size: 19px;
+/* ul.table-of-contents li{
+	font-size: 19px; */
 }
 
 .table-of-contents a.active {
